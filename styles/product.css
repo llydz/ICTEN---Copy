@@ -1,0 +1,13 @@
+main {
+
+    height: 83dvh;
+}
+
+.tit {
+
+    text-align: center;
+    padding: 30px;
+    font-size: 50px;
+    color: #E9E94D;
+    background-color: #334ea7;
+}
